@@ -1,4 +1,4 @@
-Laboratory work for university
+Laboratory work for University
 
 In this laboratory work we have to simulate a different type
 (SYN-flood / ICMP-flood) of attacks with packet generators 
